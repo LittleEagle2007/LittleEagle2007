@@ -1,4 +1,4 @@
-![logo](https://github.com/LittleEagle2007/LittleEagle2007/blob/main/Black%20Green%20Tech%20Programmer%20Presentation.jpg)
+![logo](https://github.com/LittleEagle2007/LittleEagle2007/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Mahdi Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
