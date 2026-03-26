@@ -36,22 +36,24 @@ I am a highly motivated **Computer Science and Technology** student at **Daffodi
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LittleEagle2007&show_icons=true&theme=radical&rank_icon=github" alt="Mahdi's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleEagle2007&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-</p>
+| My Stats | Top Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=LittleEagle2007&show_icons=true&theme=radical" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleEagle2007&layout=compact&theme=radical" width="400px" /> |
 
 ---
 
 ## 🏆 Achievements & Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LittleEagle2007&theme=radical" alt="Trophies" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LittleEagle2007&theme=radical" alt="Streak Stats" width="100%" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=LittleEagle2007&theme=radical" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LittleEagle2007&theme=radical" />
+
+</div>
+
 
 
 ---
