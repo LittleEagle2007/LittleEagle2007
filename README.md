@@ -1,24 +1,22 @@
 # 👋 Hello, I'm Mahdi Islam
 ### 🚀 CST Student | Founder of MI Tech Arsenal | AI Architect
 
-I am a highly motivated **Computer Science and Technology** student at **Daffodil Polytechnic Institute**. Currently, I am focused on mastering Python, exploring open-source software, and developing **Yelena**, my custom RAG-based AI assistant.
+I am a 2nd-semester **Computer Science and Technology** student at **Daffodil Polytechnic Institute**. I specialize in Python development and am currently architecting **Yelena**, a custom RAG-based AI assistant.
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Technical Stack
 
-### 💻 Development & AI
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Creative** | ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat-square&logo=davinci-resolve&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
+| **Environment** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Rooted_Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
 
-### 🎨 Creative & Editing
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinci-resolve&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Affinity](https://img.shields.io/badge/Affinity-%231B1B1B.svg?style=for-the-badge&logo=affinity&logoColor=white)
+---
 
-### 🖥️ Hardware Stack
+## 🖥️ Hardware Rig
 * **CPU:** Intel i5-12400F
 * **GPU:** RX 6600 8GB
 * **RAM:** 16GB 6000MHz DDR5
@@ -27,33 +25,22 @@ I am a highly motivated **Computer Science and Technology** student at **Daffodi
 ---
 
 ## 📂 Active Projects
-
-* **[Yelena-AI](https://github.com/LittleEagle2007/Yelena-AI):** A custom RAG (Retrieval-Augmented Generation) assistant designed for personalized data interaction.
-* **[OpenSource](https://github.com/LittleEagle2007/OpenSource):** A curated collection of powerful open-source software for PC and Android.
-* **MI Tech Arsenal:** A tech blog and upcoming YouTube channel focusing on open-source tools and productivity.
-
----
-
-## 📊 GitHub Stats & Activity
-
-![Mahdi's Metrics](https://metrics.lecoq.io/LittleEagle2007?template=classic&config.timezone=Asia/Dhaka)
+* **[Yelena-AI](https://github.com/LittleEagle2007/Yelena-AI):** Custom RAG-based AI assistant.
+* **[OpenSource](https://github.com/LittleEagle2007/OpenSource):** Curated OS software for PC and Android.
+* **MI Tech Arsenal:** Tech blog and open-source documentation.
 
 ---
 
-## 🏆 Achievements
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LittleEagle2007&show_icons=true&theme=dark&hide_border=true" width="400" />
-</p>
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LittleEagle2007&theme=dark&hide_border=true)
+## 📊 Stats & Activity
+![Commits](https://img.shields.io/badge/Contributions-133+-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Learning-green?style=for-the-badge)
 
 ---
 
 ## 🤝 Let's Connect
-* 📧 Email: **[m2129090@gmail.com](mailto:m2129090@gmail.com)**
-* 🌐 Blog: **[MI Tech Arsenal](https://mitecharsenal.blogspot.com)**
-* 📘 Facebook: **[Mahdi Islam](https://www.facebook.com/profile.php?id=61553579514428)**
+* 📧 Email: **m2129090@gmail.com**
+* 🌐 Blog: [MI Tech Arsenal](https://mitecharsenal.blogspot.com)
+* 📘 Facebook: [Mahdi Islam](https://www.facebook.com/profile.php?id=61553579514428)
 
 ---
-*"Thriving on high-productivity routines and late-night coding sessions."* ⚡
+*"Late-night coding and high-productivity routines."* ⚡
