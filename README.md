@@ -53,7 +53,7 @@ I am a highly motivated **Computer Science and Technology** student at **Daffodi
 
 ## 🤝 Let's Connect
 * 📧 Email: **[m2129090@gmail.com](mailto:m2129090@gmail.com)**
-* 🌐 Blog: **[MI Tech Arsenal](https://mitecharsenal.blogspot.com)** (Update with your link)
+* 🌐 Blog: **[MI Tech Arsenal](https://mitecharsenal.blogspot.com)**
 * 📘 Facebook: **[Mahdi Islam](https://www.facebook.com/profile.php?id=61553579514428)**
 
 ---
