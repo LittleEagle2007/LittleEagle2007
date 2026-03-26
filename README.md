@@ -34,19 +34,19 @@ I am a highly motivated **Computer Science and Technology** student at **Daffodi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LittleEagle2007&show_icons=true&theme=dark)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleEagle2007&layout=compact&theme=dark)
+![Mahdi's Metrics](https://metrics.lecoq.io/LittleEagle2007?template=classic&config.timezone=Asia/Dhaka)
 
 ---
 
-## 🏆 Achievements & Activity
+## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=LittleEagle2007&theme=dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LittleEagle2007&show_icons=true&theme=dark&hide_border=true" width="400" />
+</p>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LittleEagle2007&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LittleEagle2007&theme=dark&hide_border=true)
 
 ---
 
