@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Mahdi Islam
 ### 🚀 CST Student | Founder of MI Tech Arsenal | AI Architect
 
-I am a 2nd-semester **Computer Science and Technology** student at **Daffodil Polytechnic Institute**. I specialize in Python development and am currently architecting **Yelena**, a custom RAG-based AI assistant.
+I am a 2nd-semester **Computer Science and Technology** student. I specialize in Python development and am currently architecting **Yelena**, a custom RAG-based AI assistant.
 
 ---
 
