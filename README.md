@@ -33,7 +33,7 @@ I am a 2nd-semester **Computer Science and Technology** student. I specialize in
 * **CPU:** Intel i5-12400F
 * **GPU:** RX 6600 8GB
 * **RAM:** 16GB 6000MHz DDR5
-* **Mobile:** Moto G64 (Rooted, YAAP Custom ROM)
+* **Mobile:** Moto G64
 
 ---
 
